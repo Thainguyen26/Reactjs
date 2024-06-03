@@ -1,0 +1,21 @@
+/* * {
+  padding: 0;
+}
+ul,
+li,
+ol {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+button {
+  cursor: pointer;
+  border: 1px solid transparent;
+  outline: none;
+  padding: 12px 24px;
+} */
+.Col {
+  border: 1px solid #eaeaea;
+  border-radius: 5px;
+}
